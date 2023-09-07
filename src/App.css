@@ -1,0 +1,18 @@
+*
+{
+   box-sizing: border-box;
+   background-color: black;
+   padding: 0;
+   margin: 0;
+   scroll-behavior: smooth;
+
+}
+.App
+{
+   display: flex;
+   flex-direction: column;
+   margin-top: 100px;
+   justify-content: baseline;
+   align-items: center;
+   box-shadow: grey,10px,-10px,25px;
+}

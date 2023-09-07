@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/guessgame/static/css/main.7391cc84.css",
+    "main.js": "/guessgame/static/js/main.8cd9582b.js",
+    "static/js/787.4795f1c0.chunk.js": "/guessgame/static/js/787.4795f1c0.chunk.js",
+    "static/media/ramcharan.jpg": "/guessgame/static/media/ramcharan.f5dff765996f744addff.jpg",
+    "static/media/ntr.jpg": "/guessgame/static/media/ntr.c9d6e7c65243b4918283.jpg",
+    "static/media/Dhanush.jpg": "/guessgame/static/media/Dhanush.29a1f18fc2e494f344b3.jpg",
+    "static/media/Mahesh.jpg": "/guessgame/static/media/Mahesh.69a9de623f6e0bc40ecc.jpg",
+    "static/media/rajini.jpg": "/guessgame/static/media/rajini.d7983dec385a6efff28b.jpg",
+    "static/media/surya.jpg": "/guessgame/static/media/surya.e46ee234af17dfa64edd.jpg",
+    "static/media/pk.jpg": "/guessgame/static/media/pk.bc5e7de9ed2043ba7304.jpg",
+    "static/media/AlluArjun.jpg": "/guessgame/static/media/AlluArjun.8d55054890d446564464.jpg",
+    "static/media/prabhas.jpg": "/guessgame/static/media/prabhas.bb3b11f0ba554d17886f.jpg",
+    "static/media/thalapathy.jpg": "/guessgame/static/media/thalapathy.6945ac363da1827720ec.jpg",
+    "index.html": "/guessgame/index.html",
+    "main.7391cc84.css.map": "/guessgame/static/css/main.7391cc84.css.map",
+    "main.8cd9582b.js.map": "/guessgame/static/js/main.8cd9582b.js.map",
+    "787.4795f1c0.chunk.js.map": "/guessgame/static/js/787.4795f1c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7391cc84.css",
+    "static/js/main.8cd9582b.js"
+  ]
+}
